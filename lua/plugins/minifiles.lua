@@ -4,8 +4,8 @@ return
 	version = false,
 	opts = {
 		mappings = {
-			go_in = '<CR>',
-			go_out = '<BS>',
+			go_in = '<Right>',
+			go_out = '<Left>',
 			reset = '',
 		},
 		options = {
